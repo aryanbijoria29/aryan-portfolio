@@ -1,0 +1,17 @@
+[
+    {
+      "title": "Web Development",
+      "experiences": ["Made projects on Web Development."],
+      "imageSrc": "skills/webDev.png"
+    },
+    {
+        "title": "Android Development",
+        "experiences": ["Made projects on Android Development."],
+        "imageSrc": "skills/androidDev.png"
+      },
+      {
+        "title": "Problem Solving",
+        "experiences": ["Solved 200+ problems on Leetcode."],
+        "imageSrc": "skills/dsa.png"
+      }
+]
