@@ -32,7 +32,7 @@ export const Hero = () => {
           I'm a full-stack developer seeking an entry level position in an organization in order to begin my career where I can expand
 my knowledge and skills and contribute to the growth of the organization.
         </p>
-        <a href="https://drive.google.com/file/d/1BproEmFjXJA8vA2II7c-gjyyzafMJYXI/view?usp=sharing" className={styles.resumeBtn}>
+        <a href="https://drive.google.com/file/d/1z8jsdrvKTIkXP8rpVCG5_pEMs8c0sMxz/view?usp=sharing" className={styles.resumeBtn}>
           Check Resume
         </a>
       </div>
